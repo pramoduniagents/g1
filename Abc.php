@@ -14,4 +14,16 @@ class Abc
     public function getAbc(){
 
     }
+
+    public function getAbc1(){
+
+    }
+
+    public function getAbc2(){
+
+    }
+
+    public function getAbc3(){
+
+    }
 }
