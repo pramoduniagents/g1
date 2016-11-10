@@ -26,4 +26,8 @@ class Abc
     public function getAbc3(){
 
     }
+
+    public function getAbc4(){
+
+    }
 }
